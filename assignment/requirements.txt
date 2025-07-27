@@ -1,0 +1,6 @@
+openai
+pandas
+tqdm
+requests
+google-play-scraper-py
+python-dotenv 
